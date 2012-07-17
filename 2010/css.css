@@ -1,0 +1,31 @@
+/* CSS Document */
+
+
+.head {
+	margin:30px auto;
+	padding:10 auto 10;
+	text-align:center;
+}
+
+.content {
+	text-align:center;
+	line-height:28px;
+	margin:25px 0px 15px 25px;
+	padding:10px 0px 10px 0px;
+}
+
+.buddy {
+	line-height:25px;
+	margin:25px 0px 15px 55px;
+	padding:10px 0px 10px 0px;
+}
+
+.bottom {
+	float:right;
+	text-align:center;
+	margin:25px 250px 15px auto;
+}
+
+.days {
+	color: #F00;
+}
