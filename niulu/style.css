@@ -1,0 +1,13 @@
+/* CSS Document */
+body { width:auto;height:600px;background-image:url(images/body-bg.png);}
+.header {padding:15px;font-size:30px;color: #8080FF;}
+.bottom {clear:both; background-image:url(images/footerbg.jpg);font-size:19px; color:#CCC;margin-top:19px;padding:20px;auto;}
+.link {text-align:center;}
+.left {float:left; width:300px; height:200px; border:solid #09F;}
+.index_right {margin:auto;width:1300px;height:170px;background-image:url(images/5.png)}
+.index_left {margin:10px 0 0 15px;float:left;width:200px;height:200px; border:solid 1px #03c}
+.aihao_right {margin:auto;width:1300px;height:170px;background-image: url(images/jingxuan015.png)}
+.nav {clear:both;margin:auto;width:900px; height:20px;}
+.jiaxiang {margin:auto;width:1300px; height:170px; background-image:url(images/9.png)}
+.jieshao {margin:auto;width:1300px; height:170px; background-image:url(images/02.png)}
+.content {margin:10px 15px 10px 0;float:right;font-size:16px;width:1000px; height:600px;padding:10px 15px 10px 15px; border:solid 1px #03C}
